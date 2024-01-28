@@ -1,5 +1,6 @@
 matplotlib
 notebook
 pandas
+scikit-learn
 seaborn
 xlrd
