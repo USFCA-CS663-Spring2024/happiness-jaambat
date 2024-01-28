@@ -1,3 +1,5 @@
+matplotlib
 notebook
 pandas
+seaborn
 xlrd
